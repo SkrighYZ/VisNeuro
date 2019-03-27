@@ -1,2 +1,2 @@
-# Neuron-Model-Implementation
-Implementation of visual cortex neurons from course BCS247 Computational Neuroscience.
+# Visual Decision Making
+Implementation of visual cortex neurons's behavior from course BCS247 Computational Neuroscience.
