@@ -1,5 +1,6 @@
-# Visual Neurons Implementation
+# Neuron Models Implementation
 Implementation of visual cortex neurons' behaviors from course BCS247 Computational Neuroscience.
+
 
 ## LIAF Neuron Model
 Implementation of Leaky Integrate-And-Fire Neuron Model.
