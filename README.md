@@ -1,4 +1,4 @@
-# Neuron Models Implementation
+# VisNeuro
 Implementation of visual cortex neurons' behaviors from course BCS247 Computational Neuroscience.
 
 
