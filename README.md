@@ -15,4 +15,4 @@ Implementation of neuron decoding (perceptron binary classifier) with 100 neuron
 Implementation of decision making with the decision functions from the PART III using accumulated evidence model.
 
 ## PART V: Probablistic Inference
-Application and analysis of exact and approximated inference using Gibbs Sampling on a simple graphical model.
+Application and analysis of exact and approximated inference using Gibbs sampling on a simple graphical model.
