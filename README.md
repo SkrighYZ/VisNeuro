@@ -14,5 +14,5 @@ Implementation of neuron decoding (single hidden layer binary classifier) with 1
 ## PART IV: Decision Making
 Implementation of decision making with the decision functions from the PART III using accumulated evidence model.
 
-## PART V: Probablistic Inference
+## PART V: Probabilistic Inference
 Application and analysis of exact and approximated inference using Gibbs sampling on a simple graphical model.
