@@ -16,3 +16,6 @@ Implementation of decision making with the decision functions from the PART III 
 
 ## PART V: Probabilistic Inference
 Application and analysis of exact and approximated inference using Gibbs sampling on a simple graphical model.
+
+## PART VI: LIF Network
+Simulates networks of LIAF neurons, including random network, sensory network and attractor network.
